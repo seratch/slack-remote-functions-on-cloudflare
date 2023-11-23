@@ -1,6 +1,6 @@
 # Slack Remote Functions on Cloudflare Workers
 
-This repository demonstrates how to build a remote function for [Slack's automation platform](https://api.slack.com/automation) on the [Cloudflare Workers](https://workers.cloudflare.com/) platform. The [slack-cloudflare-workers](https://github.com/seratch/slack-cloudflare-workers) library provides the toolset for swiftly creating the same in TypeScript.
+This repository demonstrates how to build a remote function for [Slack's automation platform](https://api.slack.com/automation) on the [Cloudflare Workers](https://workers.cloudflare.com/) platform. The [slack-cloudflare-workers](https://github.com/seratch/slack-cloudflare-workers) library provides the toolset for swiftly creating such an app in TypeScript.
 
 ## Clone this repo
 
