@@ -93,7 +93,7 @@ console.log("\n");
 console.log("\n");
 console.log("\n");
 console.log(
-  `!!! Visit https://api.slack.com/apps/${creation.app_id} to install the ap !!!`,
+  `!!! Visit https://api.slack.com/apps/${creation.app_id} to install the app !!!`,
 );
 console.log("\n");
 console.log("\n");

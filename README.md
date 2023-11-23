@@ -78,7 +78,7 @@ Everything is set! Execute the command provided below to create a new Slack app 
 bun run src/manifest.ts
 ```
 
-If everything goes well, you will see a mesage like `!!! Visit https://api.slack.com/apps/{app_id} to install the ap !!!` on the terminal. Click the URL and install the app into your Slack workspace.
+If everything goes well, you will see a mesage like `!!! Visit https://api.slack.com/apps/{app_id} to install the app !!!` on the terminal. Click the URL and install the app into your Slack workspace.
 
 ## Configure secrets
 
