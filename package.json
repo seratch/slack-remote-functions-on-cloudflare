@@ -1,5 +1,5 @@
 {
-  "name": "my-remote-func",
+  "name": "slack-remote-functions-on-cloudflare",
   "version": "0.0.0",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20231121.0",
