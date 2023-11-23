@@ -124,6 +124,7 @@ Your worker has access to the following bindings:
 ```
 
 Once your remote function has been installed to your Slack workspace or organization, you can utilize the custom step in the Workflow Builder as follows:
+
 <img src="https://user-images.githubusercontent.com/19658/285131373-3d6dab00-4f8b-45f3-b488-8e3e412c40ab.gif" width=500>
 
 Share the trigger URL for the workflow either in a channel or a canvas document. Clicking the link button initiates the workflow. The execution of your custom step within this workflow triggers a 'function_executed' event in your Cloudflare Workers app.
