@@ -8,6 +8,10 @@ export default {
   ): Promise<Response> {
     const app = new SlackApp({ env });
 
+    app.event("app_mention", async ({ context }) => {
+      await context.say({ text: "What's up?" });
+    });
+
     // Receive a function_executed event from the automation platform
     app.function("hello", async ({ context, payload }) => {
       const { client } = context;
